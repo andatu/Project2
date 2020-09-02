@@ -4,7 +4,8 @@ import org.apache.commons.lang3.StringEscapeUtils;
 
 import java.io.IOException;
 import java.sql.SQLException;
-import java.util.logging.Logger;
+//import java.util.logging.Logger;
+import org.apache.log4j.Logger;
 
 /**
  * Hello world!
